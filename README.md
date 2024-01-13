@@ -1,3 +1,18 @@
+https://studioyt-chi.vercel.app/
+
+
+
+
+
+![Ekran görüntüsü 2024-01-13 155504](https://github.com/oguzhan-baysal/denemasyon/assets/110729148/7e1c8e95-ff51-4fc0-bd8a-dfe570058644)
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
